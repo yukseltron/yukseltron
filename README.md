@@ -1,8 +1,9 @@
 
-<div style="display: flex;">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yukseltron&show_icons=true&theme=dark"/>
-  <img src="https://i.imgur.com/ZsQlKzN.png" style="height: 100px;"/>
+  <img src="https://i.imgur.com/ZsQlKzN.png" height="375px"/>
 </div>
+
 <!--
 **yukseltron/yukseltron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
