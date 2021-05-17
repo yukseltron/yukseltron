@@ -11,9 +11,7 @@
 ```
 
 
-
-
-![Profile visits](https://gpvc.arturio.dev/yukseltron)
+<img align="right" src="https://gpvc.arturio.dev/yukseltron"/>
 
 
 
