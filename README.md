@@ -13,8 +13,7 @@
 
 <img align="right" src="https://gpvc.arturio.dev/yukseltron"/>
 
-
-
+[Check out my microblog](https://read.cv/yuksel)
 
 <!--
 **yukseltron/yukseltron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
