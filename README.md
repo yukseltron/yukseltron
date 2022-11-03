@@ -27,6 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yukseltron&show_icons=true&theme=dark)
 
 ### [Check out my microblog](https://read.cv/yuksel)
